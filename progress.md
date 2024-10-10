@@ -10,7 +10,9 @@ _class: title
 ## b3 苅込凌太郎
 
 ---
+<!--
+_class: slide
+-->
 # 研究テーマの決定
-![bg 40%](./images/summary.png)
-
----
+![w:500](./images/summary.png)
+aaaa
