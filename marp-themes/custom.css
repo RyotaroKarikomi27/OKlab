@@ -1,0 +1,15 @@
+/* @theme test */
+@import 'default';
+
+section {
+  font-family: "Hiragino Maru Gothic ProN";
+  font-size: 32px;
+  padding: 40px;
+}
+
+section.titel h1{
+  color: blue;
+  font-family: "Arial", "Hiragino Maru Gothic ProN";
+  font-size: 60px;
+  text-align: center;
+}
