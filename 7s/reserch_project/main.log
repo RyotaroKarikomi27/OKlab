@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p3.9.1-u1.27-210218-2.6 (utf8.uptex) (TeX Live 2022/dev/Debian) (preloaded format=uplatex 2024.6.30)  30 APR 2025 12:55
+This is e-upTeX, Version 3.141592653-p3.9.1-u1.27-210218-2.6 (utf8.uptex) (TeX Live 2022/dev/Debian) (preloaded format=uplatex 2024.6.30)  30 APR 2025 15:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -212,47 +212,48 @@ LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 11.09619pt on input line 1.
 ) (./02_purpose.tex) (./03_method.tex
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 2.
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 2.
+(Font)              scaled to size 9.24683pt on input line 3.
 LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 2.
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 2.
-
+(Font)              scaled to size 9.24683pt on input line 3.
+)
+(./04_experiment.tex
+File: ./images/experiment.png Graphic file (type bmp)
+<./images/experiment.png>
+) (./05_evaluation.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
-(./04_experiment.tex) (./05_evaluation.tex [1
+ [1
 
 
-]) (./06_schedule.tex)
-(./07_outcome.tex) (./08_ambition.tex) (./09_reference.tex
-Underfull \hbox (badness 2181) in paragraph at lines 7--10
+])
+(./06_schedule.tex) (./07_outcome.tex) (./08_ambition.tex) (./09_reference.tex
+Underfull \hbox (badness 2181) in paragraph at lines 8--11
 []\JY2/mc/m/n/10 公立諏訪東京理科大学篠原研究室 ， \OT1/cmr/m/n
 /10 "\JY2/mc/m/n/10 ル ー
  []
 
 
-Underfull \hbox (badness 2556) in paragraph at lines 7--10
+Underfull \hbox (badness 2556) in paragraph at lines 8--11
 \JY2/mc/m/n/10 ビ ックキ ュ ーブ学習による脳活動への影
  []
 
 
-Overfull \hbox (14.42352pt too wide) in paragraph at lines 7--10
+Overfull \hbox (14.42352pt too wide) in paragraph at lines 8--11
 \OT1/cmr/m/n/10 https://www.megahouse.co.jp/rubikcube/results/:w 
  []
 
-) [2
-
-] (./main.aux) ) 
+) [2] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 2021 strings out of 478733
- 31073 string characters out of 5860893
+ 2031 strings out of 478733
+ 31272 string characters out of 5860893
  343690 words of memory out of 5000000
- 20435 multiletter control sequences out of 15000+600000
+ 20440 multiletter control sequences out of 15000+600000
  479296 words of font info for 80 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 55i,9n,62p,228b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,9n,62p,228b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (2 pages, 9156 bytes).
+Output written on main.dvi (2 pages, 10392 bytes).
