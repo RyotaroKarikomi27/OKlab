@@ -1,4 +1,7 @@
 \documentclass[uplatex,twocolumn]{jsarticle}
+\renewcommand{\headfont}{\bfseries}
+\renewcommand{\thesection}{\Roman{section}}
+\renewcommand\thesubsection{\thesection.\Roman{subsection}}
 \setlength{\columnsep}{3zw}
 \setlength{\topmargin}{20mm}
 \addtolength{\topmargin}{-1in}
@@ -16,17 +19,19 @@
 
 \begin{document} 
 \title{\large 研究計画書\\
-\huge ルービックキューブ}
+\huge ルービックキューブ\\ の研究}
 \author{千葉工業大学 先進工学部 未来ロボティクス学科\\
-大川研究室 21C1034 苅込凌太郎}
-\date{2025/5/9} 
+大川研究室 21C1034 苅込凌太郎\\
+\small 指導教員 : 大川茂樹}
+\date{2025年5月9日} 
 \maketitle
 \input{01_background.tex}
 \input{02_purpose.tex}
 \input{03_method.tex}
-\input{04_evaluation.tex}
-\input{05_schedule.tex}
-\input{06_outcome.tex}
-\input{07_ambition.tex}
-\input{08_reference.tex}
+\input{04_experiment.tex}
+\input{05_evaluation.tex}
+\input{06_schedule.tex}
+\input{07_outcome.tex}
+\input{08_ambition.tex}
+\input{09_reference.tex}
 \end{document}
