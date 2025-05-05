@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p3.9.1-u1.27-210218-2.6 (utf8.uptex) (TeX Live 2022/dev/Debian) (preloaded format=uplatex 2024.6.30)  30 APR 2025 15:36
+This is e-upTeX, Version 3.141592653-p3.9.1-u1.27-210218-2.6 (utf8.uptex) (TeX Live 2022/dev/Debian) (preloaded format=uplatex 2024.6.30)  5 MAY 2025 10:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -219,41 +219,48 @@ LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10> not available
 (Font)              Font shape `JY2/gt/m/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 9.24683pt on input line 3.
+File: ./images/cube.png Graphic file (type bmp)
+<./images/cube.png>
 )
-(./04_experiment.tex
+(./04_experiment.tex [1
+
+
+]
 File: ./images/experiment.png Graphic file (type bmp)
 <./images/experiment.png>
-) (./05_evaluation.tex
+) (./05_evaluation.tex) (./06_schedule.tex)
+(./07_outcome.tex) (./08_ambition.tex) (./09_reference.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1
+
+Underfull \hbox (badness 1107) in paragraph at lines 3--6
+\JY2/mc/m/n/10 は超重要 ！プロが幼児期の遊びの大切さを
+ []
 
 
-])
-(./06_schedule.tex) (./07_outcome.tex) (./08_ambition.tex) (./09_reference.tex
-Underfull \hbox (badness 2181) in paragraph at lines 8--11
+Underfull \hbox (badness 2181) in paragraph at lines 11--14
 []\JY2/mc/m/n/10 公立諏訪東京理科大学篠原研究室 ， \OT1/cmr/m/n
 /10 "\JY2/mc/m/n/10 ル ー
  []
 
 
-Underfull \hbox (badness 2556) in paragraph at lines 8--11
+Underfull \hbox (badness 2556) in paragraph at lines 11--14
 \JY2/mc/m/n/10 ビ ックキ ュ ーブ学習による脳活動への影
  []
 
 
-Overfull \hbox (14.42352pt too wide) in paragraph at lines 8--11
+Overfull \hbox (14.42352pt too wide) in paragraph at lines 11--14
 \OT1/cmr/m/n/10 https://www.megahouse.co.jp/rubikcube/results/:w 
  []
 
 ) [2] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 2031 strings out of 478733
- 31272 string characters out of 5860893
- 343690 words of memory out of 5000000
- 20440 multiletter control sequences out of 15000+600000
+ 2039 strings out of 478733
+ 31390 string characters out of 5860893
+ 341690 words of memory out of 5000000
+ 20447 multiletter control sequences out of 15000+600000
  479296 words of font info for 80 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  55i,9n,62p,228b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (2 pages, 10392 bytes).
+Output written on main.dvi (2 pages, 10960 bytes).
