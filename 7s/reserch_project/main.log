@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p3.9.1-u1.27-210218-2.6 (utf8.uptex) (TeX Live 2022/dev/Debian) (preloaded format=uplatex 2024.6.30)  5 MAY 2025 10:19
+This is e-upTeX, Version 3.141592653-p3.9.1-u1.27-210218-2.6 (utf8.uptex) (TeX Live 2022/dev/Debian) (preloaded format=uplatex 2024.6.30)  5 MAY 2025 15:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -257,10 +257,10 @@ Overfull \hbox (14.42352pt too wide) in paragraph at lines 11--14
 Here is how much of TeX's memory you used:
  2039 strings out of 478733
  31390 string characters out of 5860893
- 341690 words of memory out of 5000000
+ 342690 words of memory out of 5000000
  20447 multiletter control sequences out of 15000+600000
  479296 words of font info for 80 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  55i,9n,62p,228b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (2 pages, 11020 bytes).
+Output written on main.dvi (2 pages, 11564 bytes).
